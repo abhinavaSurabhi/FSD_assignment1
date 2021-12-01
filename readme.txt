@@ -1,7 +1,5 @@
 ################################################################################################
 
-Readme for Travel | Bootstrap blog by Bootstrap Temple 
- - https://bootstraptemple.com
 
 ################################################################################################
 
@@ -33,18 +31,4 @@ Apart from the Bootstrap JS components, the majority of JS is located in /js/fro
 - Font Awesome - http://fontawesome.io/
 - more in credits.txt.
 
----------------------
- LICENSE CONDITIONS
----------------------
 
-You are completely free to use this template for your personal use or as a work for your client as long as you keep the link at the template footer pointing to our partner and us.
-
-If you would prefer removing the backlink from the theme footer, please purchase the attribution-free license at the theme page at https://bootstraptemple.com.
-
-However, you cannot redistribute the template nor its derivatives on the internet - neither for free or commercially (e.g., selling it on a marketplace).
-
-Also, as a bonus for license owners, I can provide you the SASS files for even easier template customization. Drop me a line at hello@bootstraptemple.com after purchasing the license.
-
-Thank you for understanding and respecting the license conditions.
-
-If more info needed, please contact me at hello@bootstraptemple.com.
